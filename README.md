@@ -1,2 +1,17 @@
-# helloworld
-my first project on github for UE course
+# Hello World 🚢
+
+A simple Python script that prints "Hello, World!" along with ASCII art of a sailboat.
+
+## Description
+
+This is my first project using Git and GitHub. It's a beginner-friendly script written in Python that demonstrates basic output using the `print()` function.
+
+## How to Run
+
+Make sure you have Python installed, then run:
+
+```bash
+python hello.py
+```
+
+## Output
